@@ -1,3 +1,3 @@
 layout: page
 title: "home"
-permalink: /home/
+permalink: https://sadpotatoh.github.io/Test-Site/home
